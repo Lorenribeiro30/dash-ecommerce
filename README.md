@@ -1,5 +1,7 @@
 # Análise de e-commerce com Dash
 
+[Acessar a aplicação Dash](https://dash-ecommerce.onrender.com/)
+
 Aplicação interativa em Python que lê `ecommerce_estatistica.csv` em um DataFrame pandas e apresenta os gráficos da atividade anterior: histograma de notas, dispersão de notas e avaliações, correlações, marcas, temporadas, densidade de preços e regressão linear entre preço e nota. O filtro de temporada atualiza as visualizações.
 
 ## Executar no computador
